@@ -18,3 +18,8 @@
 .third-row{
   min-height: 40vh;
 }
+.map-row{
+  min-height: 35vh;
+  background-size: cover;
+  background-image: url("https://tajikistan.orexca.com/img/map_tajikistan.jpg");
+}
