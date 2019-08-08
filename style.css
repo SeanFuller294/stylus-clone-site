@@ -3,3 +3,18 @@
   min-height: 46vh;
   background-size: cover;
 }
+.btn-colored{
+  background-color:#428bca;
+  color: white;
+}
+.blue-row{
+  min-height: 46vh;
+  background-color: #469ae0;
+  color: white;
+  align-items: center;
+  justify-content: center;
+  text-align:center;
+}
+.third-row{
+  min-height: 40vh;
+}
